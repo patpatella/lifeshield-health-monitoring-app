@@ -6,3 +6,4 @@ env/
 *.joblib
 data/*.csv
 backend/models/
+data/bidmc/backend/data/
